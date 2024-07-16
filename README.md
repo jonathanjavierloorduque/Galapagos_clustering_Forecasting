@@ -6,4 +6,4 @@
 >In this project the team uses the datase [View dataset](datosari.csv)
 
 >[!TIP]
->[Ver Notebook en NBViewer](https://nbviewer.jupyter.org/github.com/jonathanjavierloorduque/Galapagos_clustering_Forecasting.git)
+>Running this jupyter notebook with at least one GPU T4 [View the notebook](Copy_of_Galapagos_clustering_Forecasting.ipynb)
